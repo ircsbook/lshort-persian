@@ -1,3 +1,6 @@
 [submodule "src/font-IranNastaliq"]
 	path = src/font-IranNastaliq
 	url = https://github.com/font-store/font-IranNastaliq
+[submodule "lshort-persian"]
+	path = lshort-persian
+	url = https://github.com/mehdioa/lshort-persian

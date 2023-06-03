@@ -2,5 +2,5 @@
 	path = src/font-IranNastaliq
 	url = https://github.com/font-store/font-IranNastaliq
 [submodule "lshort-persian"]
-	path = lshort-persian
+	path = persian
 	url = https://github.com/mehdioa/lshort-persian
